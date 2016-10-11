@@ -27,6 +27,12 @@ This repo has fork bomb examples in the following languages
 * Zsh
 * Rust
 
+## Yes Command
+This repo has yes examples in the following languages
+* Bash
+* Python
+* Ruby
+
 # DO NOT RUN THIS CODE
 It will crash your computer
 `you_were_warned.gif`
