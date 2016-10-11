@@ -13,3 +13,6 @@ This repo has fork bomb examples in the following languages
 * C#
 * Haskell
 * Ruby
+* Lua
+* Zsh
+* Rust
