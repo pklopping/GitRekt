@@ -26,3 +26,7 @@ This repo has fork bomb examples in the following languages
 * Lua
 * Zsh
 * Rust
+
+# DO NOT RUN THIS CODE
+It will crash your computer
+`you_were_warned.gif`

@@ -1,3 +1,5 @@
+// DO NOT RUN THIS IT WILL CRASH YOUR COMPUTER
+
 //Title of this code
 //Rextester.Program.Main is the entry point for your code. Don't change it.
 
