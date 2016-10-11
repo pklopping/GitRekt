@@ -9,3 +9,7 @@ All code is a joke.
 ## Fork Bombs
 This repo has fork bomb examples in the following languages
 * Python
+* Bash
+* C#
+* Haskell
+* Ruby
