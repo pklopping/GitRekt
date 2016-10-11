@@ -8,8 +8,13 @@ All code is a joke.
 
 ## Fork Bombs
 This repo has fork bomb examples in the following languages
+### Popular Languages
 * Python
 * Bash
 * C#
-* Haskell
 * Ruby
+### Obscure Languages
+* Haskell
+* Lua
+* Zsh
+* Rust
