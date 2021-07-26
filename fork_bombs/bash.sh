@@ -1,1 +1,3 @@
+# DO NOT RUN THIS IT WILL CRASH YOUR COMPUTER
+
 :(){ :|:& };:
